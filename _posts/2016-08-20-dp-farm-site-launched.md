@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Devesh Prakash, pseudo Baba, Launches Site"
+title: "Devesh Prakash, Pseudo Baba, Launches Site"
 date: 2016-08-20
 ---
 
